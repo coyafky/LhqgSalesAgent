@@ -1,4 +1,4 @@
-name: ymyy-sales-agent
+name: LhqgSalesAgent
 version: 0.3.0
 description: "有膜有漾内部销售助手：CRM全链路 + 产品知识库 + 销售话术 + 车膜改色预览"
 hermes_requires: ">=0.12.0"

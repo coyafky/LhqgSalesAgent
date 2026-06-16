@@ -1,5 +1,5 @@
 ---
-profile: ymyy-sales-agent
+profile: LhqgSalesAgent
 name: 有膜有漾内部销售助手
 audience: 门店销售、招商人员、客服
 source: 有膜有漾服务手册

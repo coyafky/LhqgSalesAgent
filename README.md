@@ -29,7 +29,7 @@ cp .env.EXAMPLE .env
 ### 快速验证
 
 ```bash
-hermes chat --profile ymyy-sales-agent -q "你好，自我介绍"
+hermes chat --profile LhqgSalesAgent -q "你好，自我介绍"
 ```
 
 ## 更新
@@ -37,7 +37,7 @@ hermes chat --profile ymyy-sales-agent -q "你好，自我介绍"
 当仓库有更新时，运行：
 
 ```bash
-hermes profile update ymyy-sales-agent
+hermes profile update LhqgSalesAgent
 ```
 
 Hermes 会自动合并变更，同时保留你的 `.env`、会话记录、记忆等本地数据。
