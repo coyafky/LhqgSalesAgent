@@ -5,7 +5,7 @@ providers:
   deepseek:
     name: DeepSeek
     base_url: https://api.deepseek.com
-    api_key: ""  # 请在 .env 中设置 DEEPSEEK_API_KEY
+    api_key: ''
     models:
     - deepseek-v4-pro
     - deepseek-v4-flash
@@ -395,7 +395,22 @@ command_allowlist:
 - script execution via -e/-c flag
 - lark-cli docs +create
 - lark-cli base +record-upsert
-quick_commands: {}
+quick_commands:
+  /录: 帮我录一个客户
+  /线索: 帮我录一个客户
+  /跟: 帮我记一下跟进记录
+  /跟进: 帮我记一下跟进记录
+  /价: 帮我报个价
+  /报价: 帮我报个价
+  /成: 帮我记录成交
+  /档: 帮我给客户建档
+  /建档: 帮我给客户建档
+  /单: 帮我下工单
+  /工单: 帮我下工单
+  /售: 帮我记录售后
+  /售后: 帮我记录售后
+  /数: 帮我查一下数据
+  /分析: 帮我查一下数据
 hooks: {}
 hooks_auto_accept: false
 personalities: {}
