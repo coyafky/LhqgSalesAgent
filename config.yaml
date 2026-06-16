@@ -395,22 +395,7 @@ command_allowlist:
 - script execution via -e/-c flag
 - lark-cli docs +create
 - lark-cli base +record-upsert
-quick_commands:
-  /录: 帮我录一个客户
-  /线索: 帮我录一个客户
-  /跟: 帮我记一下跟进记录
-  /跟进: 帮我记一下跟进记录
-  /价: 帮我报个价
-  /报价: 帮我报个价
-  /成: 帮我记录成交
-  /档: 帮我给客户建档
-  /建档: 帮我给客户建档
-  /单: 帮我下工单
-  /工单: 帮我下工单
-  /售: 帮我记录售后
-  /售后: 帮我记录售后
-  /数: 帮我查一下数据
-  /分析: 帮我查一下数据
+quick_commands: {}
 hooks: {}
 hooks_auto_accept: false
 personalities: {}
