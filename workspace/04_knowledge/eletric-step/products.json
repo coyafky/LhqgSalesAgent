@@ -1,0 +1,824 @@
+{
+  "metadata": {
+    "title": "蓝辉轻改电动踏板知识库",
+    "generated_at": "2026-06-12T15:17:02",
+    "source_files": [
+      "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "/Users/fkycoya/Downloads/电动踏板产品官网展示文稿.md"
+    ],
+    "fitment_count": 21,
+    "style_module_count": 3,
+    "image_asset_count": 3,
+    "image_assets_available": 0,
+    "directory_note": "保留用户指定目录名 eletric-step。"
+  },
+  "product_family": {
+    "id": "electric-side-step",
+    "name": "电动踏板",
+    "brand_context": "蓝辉轻改",
+    "target_vehicle_types": [
+      "新能源 SUV",
+      "MPV",
+      "越野 SUV"
+    ],
+    "core_value": [
+      "高底盘车型上下车更方便",
+      "老人小孩上下车更稳",
+      "外观轻改升级",
+      "迎宾氛围提升"
+    ],
+    "common_specs": {
+      "load_capacity": "300KG",
+      "waterproof": "支持防水（原始字段为 1）",
+      "warranty": "1年"
+    }
+  },
+  "style_modules": [
+    {
+      "id": "single-light",
+      "name": "单灯款 / 带灯款",
+      "source_label": "带灯",
+      "module_type": "带灯",
+      "sales_positioning": "适合希望提升夜间上下车识别度和迎宾氛围，同时不想过度夸张的家庭和商务用户。",
+      "customer_fit": [
+        "夜间用车较多",
+        "家里有老人小孩",
+        "希望踏板展开时更醒目",
+        "注重实用和外观平衡"
+      ],
+      "talk_track": "带灯款是在实用基础上增加夜间识别和迎宾效果，适合大多数家庭 SUV/MPV 用户。"
+    },
+    {
+      "id": "double-light",
+      "name": "双灯款",
+      "source_label": "双灯",
+      "module_type": "双灯",
+      "sales_positioning": "适合中大型 SUV、MPV、越野 SUV，客户更看重外观展示、迎宾感和改装辨识度。",
+      "customer_fit": [
+        "中大型 SUV/MPV",
+        "商务接待",
+        "想要更明显灯光效果",
+        "重视外观轻改升级"
+      ],
+      "talk_track": "双灯款视觉存在感更强，适合希望车辆展开踏板时更有迎宾感和展示效果的客户。"
+    },
+    {
+      "id": "no-light",
+      "name": "不带灯款",
+      "source_label": "不带灯",
+      "module_type": "不带灯",
+      "sales_positioning": "适合预算更克制、追求基础上下车便利和低调外观的车主。",
+      "customer_fit": [
+        "预算克制",
+        "更喜欢低调简洁",
+        "主要解决上下车便利",
+        "不强调灯光氛围"
+      ],
+      "talk_track": "不带灯款更偏实用和低调，核心价值是让高底盘 SUV/MPV 上下车更方便。"
+    }
+  ],
+  "fitments": [
+    {
+      "id": "electric-step-001",
+      "sequence": 1,
+      "vehicle_display_name": "极氪 MPV（009、MIX）",
+      "brand": "极氪",
+      "vehicle_type": "MPV",
+      "style_labels": [
+        "双灯",
+        "不带灯",
+        "带灯"
+      ],
+      "style_module_ids": [
+        "double-light",
+        "no-light",
+        "single-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990258176.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 2,
+      "notes": []
+    },
+    {
+      "id": "electric-step-002",
+      "sequence": 2,
+      "vehicle_display_name": "理想 MPV（MEGA）",
+      "brand": "理想",
+      "vehicle_type": "MPV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990252734.jpg",
+        "mmexport1780990445714.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 3,
+      "notes": []
+    },
+    {
+      "id": "electric-step-003",
+      "sequence": 3,
+      "vehicle_display_name": "理想纯电 SUV（i6、i8）",
+      "brand": "理想",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 4,
+      "notes": []
+    },
+    {
+      "id": "electric-step-004",
+      "sequence": 4,
+      "vehicle_display_name": "问界 SUV（M5、M7、M8、M9）",
+      "brand": "问界",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990258176.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 5,
+      "notes": []
+    },
+    {
+      "id": "electric-step-005",
+      "sequence": 5,
+      "vehicle_display_name": "蔚来 SUV（ES6、ES7、ES8）",
+      "brand": "蔚来",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 6,
+      "notes": []
+    },
+    {
+      "id": "electric-step-006",
+      "sequence": 6,
+      "vehicle_display_name": "小鹏 SUV（G6、G9）",
+      "brand": "小鹏",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 7,
+      "notes": []
+    },
+    {
+      "id": "electric-step-007",
+      "sequence": 7,
+      "vehicle_display_name": "小鹏 MPV（X9）",
+      "brand": "小鹏",
+      "vehicle_type": "MPV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 8,
+      "notes": []
+    },
+    {
+      "id": "electric-step-008",
+      "sequence": 8,
+      "vehicle_display_name": "极氪 MPV（009、MIX）",
+      "brand": "极氪",
+      "vehicle_type": "MPV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990258176.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 9,
+      "notes": [
+        "原始表中该车型重复出现，正式上线前建议确认是否合并。"
+      ]
+    },
+    {
+      "id": "electric-step-009",
+      "sequence": 9,
+      "vehicle_display_name": "腾势 MPV（D9）",
+      "brand": "腾势",
+      "vehicle_type": "MPV",
+      "style_labels": [
+        "带灯",
+        "双灯",
+        "不带灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "double-light",
+        "no-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 10,
+      "notes": []
+    },
+    {
+      "id": "electric-step-010",
+      "sequence": 10,
+      "vehicle_display_name": "腾势 SUV（N8、N9）",
+      "brand": "腾势",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 11,
+      "notes": []
+    },
+    {
+      "id": "electric-step-011",
+      "sequence": 11,
+      "vehicle_display_name": "比亚迪 MPV（夏）",
+      "brand": "比亚迪",
+      "vehicle_type": "MPV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 12,
+      "notes": []
+    },
+    {
+      "id": "electric-step-012",
+      "sequence": 12,
+      "vehicle_display_name": "比亚迪 SUV（唐、宋、元）",
+      "brand": "比亚迪",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 13,
+      "notes": []
+    },
+    {
+      "id": "electric-step-013",
+      "sequence": 13,
+      "vehicle_display_name": "方程豹越野 SUV（豹5、豹8）",
+      "brand": "方程豹",
+      "vehicle_type": "越野 SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990258176.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 14,
+      "notes": []
+    },
+    {
+      "id": "electric-step-014",
+      "sequence": 14,
+      "vehicle_display_name": "仰望越野 SUV（U8）",
+      "brand": "仰望",
+      "vehicle_type": "越野 SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 15,
+      "notes": []
+    },
+    {
+      "id": "electric-step-015",
+      "sequence": 15,
+      "vehicle_display_name": "小米 SUV（YU7）",
+      "brand": "小米",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 16,
+      "notes": []
+    },
+    {
+      "id": "electric-step-016",
+      "sequence": 16,
+      "vehicle_display_name": "阿维塔 SUV（07、11）",
+      "brand": "阿维塔",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "不带灯",
+        "带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "no-light",
+        "single-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990258176.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 17,
+      "notes": []
+    },
+    {
+      "id": "electric-step-017",
+      "sequence": 17,
+      "vehicle_display_name": "岚图 MPV（梦想家）",
+      "brand": "岚图",
+      "vehicle_type": "MPV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg",
+        "mmexport1780990258176.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg",
+        "Image/mmexport1780990258176.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 18,
+      "notes": []
+    },
+    {
+      "id": "electric-step-018",
+      "sequence": 18,
+      "vehicle_display_name": "岚图 SUV（FREE）",
+      "brand": "岚图",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990258176.jpg",
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 19,
+      "notes": []
+    },
+    {
+      "id": "electric-step-019",
+      "sequence": 19,
+      "vehicle_display_name": "零跑 SUV（C10、C11、C16）",
+      "brand": "零跑",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990258176.jpg",
+        "mmexport1780990445714.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 20,
+      "notes": []
+    },
+    {
+      "id": "electric-step-020",
+      "sequence": 20,
+      "vehicle_display_name": "深蓝 SUV（S07、G318）",
+      "brand": "深蓝",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990258176.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 21,
+      "notes": []
+    },
+    {
+      "id": "electric-step-021",
+      "sequence": 21,
+      "vehicle_display_name": "智己 SUV（LS6、LS7）",
+      "brand": "智己",
+      "vehicle_type": "SUV",
+      "style_labels": [
+        "带灯",
+        "不带灯",
+        "双灯"
+      ],
+      "style_module_ids": [
+        "single-light",
+        "no-light",
+        "double-light"
+      ],
+      "load_capacity_kg": 300,
+      "waterproof": true,
+      "warranty": "1年",
+      "image_files": [
+        "mmexport1780990445714.jpg",
+        "mmexport1780990258176.jpg",
+        "mmexport1780990252734.jpg"
+      ],
+      "image_paths": [
+        "Image/mmexport1780990445714.jpg",
+        "Image/mmexport1780990258176.jpg",
+        "Image/mmexport1780990252734.jpg"
+      ],
+      "source_file": "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "source_sheet": "电动踏板-产品整理-官网展示版",
+      "source_row": 22,
+      "notes": []
+    }
+  ],
+  "image_assets": [
+    {
+      "file_name": "mmexport1780990252734.jpg",
+      "relative_path": "Image/mmexport1780990252734.jpg",
+      "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/eletric-step/Image/mmexport1780990252734.jpg",
+      "exists": false,
+      "used_by_fitment_count": 21,
+      "status": "missing_source_image"
+    },
+    {
+      "file_name": "mmexport1780990258176.jpg",
+      "relative_path": "Image/mmexport1780990258176.jpg",
+      "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/eletric-step/Image/mmexport1780990258176.jpg",
+      "exists": false,
+      "used_by_fitment_count": 21,
+      "status": "missing_source_image"
+    },
+    {
+      "file_name": "mmexport1780990445714.jpg",
+      "relative_path": "Image/mmexport1780990445714.jpg",
+      "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/eletric-step/Image/mmexport1780990445714.jpg",
+      "exists": false,
+      "used_by_fitment_count": 21,
+      "status": "missing_source_image"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">客户接待与需求诊断工作流</title>
+  <desc id="desc">销售接待客户时，Agent 根据自然语言或聊天记录提取线索，用 SPIN 和 Mom Test 形成诊断问题。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#2d3f4a"/></marker>
+    <style>
+      .bg{fill:#f7f9f8}.title{font:700 32px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#1e2a32}.sub{font:15px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#596970}
+      .box{fill:#fff;stroke:#8196a0;stroke-width:1.5}.agent{fill:#e8f4ef;stroke:#31745e}.warn{fill:#fff4df;stroke:#b37b22}.data{fill:#eef2fb;stroke:#5b6fa8}
+      .label{font:700 18px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#263238}.txt{font:14px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#455a64}.tiny{font:12px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#607d8b}
+      .line{stroke:#2d3f4a;stroke-width:2;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="680"/>
+  <text class="title" x="60" y="64">Workflow 02：客户接待与需求诊断</text>
+  <text class="sub" x="60" y="94">目标：把客户一句模糊需求，变成可判断、可推荐、可跟进的销售线索。</text>
+
+  <rect class="box" x="70" y="155" width="195" height="118" rx="10"/>
+  <text class="label" x="110" y="190">客户入口</text>
+  <text class="txt" x="98" y="220">到店咨询/私域消息</text>
+  <text class="txt" x="98" y="244">“想贴个膜看看”</text>
+
+  <rect class="agent" x="330" y="135" width="235" height="158" rx="12"/>
+  <text class="label" x="382" y="174">线索提取</text>
+  <text class="txt" x="360" y="206">车型、来源、预算</text>
+  <text class="txt" x="360" y="232">真实诉求与触发事件</text>
+  <text class="txt" x="360" y="258">客户决策角色</text>
+
+  <rect class="agent" x="630" y="135" width="235" height="158" rx="12"/>
+  <text class="label" x="687" y="174">诊断引擎</text>
+  <text class="txt" x="660" y="206">SPIN：现状/问题/影响</text>
+  <text class="txt" x="660" y="232">Mom Test：过去行为</text>
+  <text class="txt" x="660" y="258">识别高意向动作</text>
+
+  <rect class="warn" x="930" y="155" width="205" height="118" rx="10"/>
+  <text class="label" x="978" y="190">追问策略</text>
+  <text class="txt" x="962" y="220">最多 3 个关键问题</text>
+  <text class="tiny" x="962" y="244">不审问客户，不堆问题</text>
+
+  <rect class="data" x="140" y="430" width="230" height="116" rx="10"/>
+  <text class="label" x="195" y="466">销售卡片</text>
+  <text class="txt" x="170" y="496">客户画像 + 当前阶段</text>
+  <text class="tiny" x="170" y="518">今天最该推进的一步</text>
+
+  <rect class="data" x="485" y="430" width="230" height="116" rx="10"/>
+  <text class="label" x="534" y="466">推荐输入</text>
+  <text class="txt" x="515" y="496">产品类别与优先级</text>
+  <text class="tiny" x="515" y="518">进入产品推荐工作流</text>
+
+  <rect class="data" x="830" y="430" width="230" height="116" rx="10"/>
+  <text class="label" x="878" y="466">CRM 草稿</text>
+  <text class="txt" x="860" y="496">自动生成结构化字段</text>
+  <text class="tiny" x="860" y="518">等待销售确认写入</text>
+
+  <path class="line" d="M265 214 L330 214"/>
+  <path class="line" d="M565 214 L630 214"/>
+  <path class="line" d="M865 214 L930 214"/>
+  <path class="line" d="M1033 273 C1033 360 255 350 255 430"/>
+  <path class="line" d="M1033 273 C1033 360 600 350 600 430"/>
+  <path class="line" d="M1033 273 C1033 360 945 350 945 430"/>
+</svg>

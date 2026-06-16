@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRM 沉睡线索 Hook"
+  short_description: "定时检查长期未跟进线索"
+  default_prompt: "Use $crm-sleeping-lead-hook to check sleeping leads and generate reminders."
+policy:
+  allow_implicit_invocation: true

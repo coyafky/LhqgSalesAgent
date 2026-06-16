@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRM 工单"
+  short_description: "创建施工工单并更新工单状态"
+  default_prompt: "Use $crm-workorder-entry to create or update an installation workorder."
+policy:
+  allow_implicit_invocation: true

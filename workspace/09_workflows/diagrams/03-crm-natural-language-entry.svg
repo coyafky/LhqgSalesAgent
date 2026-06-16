@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">CRM 自然语言写入工作流</title>
+  <desc id="desc">销售用自然语言描述客户和跟进过程，Agent 解析字段、确认、查重，并用 lark-cli as bot 写入飞书多维表格。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#2d3f4a"/></marker>
+    <style>
+      .bg{fill:#f8faf8}.title{font:700 32px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#1e2a32}.sub{font:15px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#596970}
+      .box{fill:#fff;stroke:#8196a0;stroke-width:1.5}.agent{fill:#e8f4ef;stroke:#31745e}.tool{fill:#eef2fb;stroke:#5b6fa8}.guard{fill:#fff3dd;stroke:#b87920}.ok{fill:#e9f7e8;stroke:#3a7f43}
+      .label{font:700 18px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#263238}.txt{font:14px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#455a64}.tiny{font:12px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#607d8b}
+      .line{stroke:#2d3f4a;stroke-width:2;fill:none;marker-end:url(#arrow)}.dash{stroke:#78909c;stroke-width:1.6;stroke-dasharray:7 6;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="700"/>
+  <text class="title" x="60" y="64">Workflow 03：CRM 自然语言填写</text>
+  <text class="sub" x="60" y="94">目标：销售只说自然语言，Agent 自动补成 CRM 记录，但写入前必须确认。</text>
+
+  <rect class="box" x="55" y="155" width="190" height="104" rx="10"/>
+  <text class="label" x="91" y="190">销售口述</text>
+  <text class="txt" x="84" y="220">“张总问了窗膜...”</text>
+  <text class="tiny" x="84" y="242">客户、需求、阶段、下次跟进</text>
+
+  <rect class="agent" x="300" y="135" width="210" height="144" rx="12"/>
+  <text class="label" x="352" y="172">字段解析</text>
+  <text class="txt" x="330" y="204">客户信息</text>
+  <text class="txt" x="330" y="228">需求与预算</text>
+  <text class="txt" x="330" y="252">销售阶段与跟进动作</text>
+
+  <rect class="guard" x="565" y="135" width="210" height="144" rx="12"/>
+  <text class="label" x="617" y="172">质量闸门</text>
+  <text class="txt" x="595" y="204">缺失字段最多追问 3 个</text>
+  <text class="txt" x="595" y="228">查重手机号/客户名</text>
+  <text class="txt" x="595" y="252">不编造价格和负责人</text>
+
+  <rect class="agent" x="830" y="135" width="210" height="144" rx="12"/>
+  <text class="label" x="882" y="172">确认摘要</text>
+  <text class="txt" x="860" y="204">新增或更新哪条记录</text>
+  <text class="txt" x="860" y="228">字段变更预览</text>
+  <text class="tiny" x="860" y="252">等待销售确认</text>
+
+  <rect class="tool" x="180" y="430" width="245" height="126" rx="10"/>
+  <text class="label" x="235" y="466">lark-cli 写入</text>
+  <text class="txt" x="210" y="496">base record upsert/update</text>
+  <text class="tiny" x="210" y="520">固定使用 --as bot</text>
+
+  <rect class="tool" x="485" y="430" width="245" height="126" rx="10"/>
+  <text class="label" x="540" y="466">飞书 CRM 表</text>
+  <text class="txt" x="515" y="496">客户表、跟进表、成交表</text>
+  <text class="tiny" x="515" y="520">权限由 Bot 应用承担</text>
+
+  <rect class="ok" x="790" y="430" width="245" height="126" rx="10"/>
+  <text class="label" x="839" y="466">返回结果</text>
+  <text class="txt" x="820" y="496">写入成功 + 记录链接</text>
+  <text class="tiny" x="820" y="520">提醒下一次跟进动作</text>
+
+  <path class="line" d="M245 207 L300 207"/>
+  <path class="line" d="M510 207 L565 207"/>
+  <path class="line" d="M775 207 L830 207"/>
+  <path class="line" d="M935 279 C935 345 303 360 303 430"/>
+  <path class="line" d="M425 493 L485 493"/>
+  <path class="line" d="M730 493 L790 493"/>
+  <path class="dash" d="M670 279 C650 330 590 355 608 430"/>
+  <text class="tiny" x="590" y="365">查重/字段配置</text>
+</svg>

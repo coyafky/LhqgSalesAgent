@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRM 回访提醒 Hook"
+  short_description: "定时提醒完工客户回访节点"
+  default_prompt: "Use $crm-revisit-reminder-hook to check customer revisit reminders."
+policy:
+  allow_implicit_invocation: true

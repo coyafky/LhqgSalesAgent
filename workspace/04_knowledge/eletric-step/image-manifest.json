@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "title": "蓝辉轻改电动踏板知识库",
+    "generated_at": "2026-06-12T15:17:02",
+    "source_files": [
+      "/Users/fkycoya/Downloads/产品画廊_电动踏板-产品整理-官网展示版.xlsx",
+      "/Users/fkycoya/Downloads/电动踏板产品官网展示文稿.md"
+    ],
+    "fitment_count": 21,
+    "style_module_count": 3,
+    "image_asset_count": 3,
+    "image_assets_available": 0,
+    "directory_note": "保留用户指定目录名 eletric-step。"
+  },
+  "images": [
+    {
+      "file_name": "mmexport1780990252734.jpg",
+      "relative_path": "Image/mmexport1780990252734.jpg",
+      "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/eletric-step/Image/mmexport1780990252734.jpg",
+      "exists": false,
+      "used_by_fitment_count": 21,
+      "status": "missing_source_image"
+    },
+    {
+      "file_name": "mmexport1780990258176.jpg",
+      "relative_path": "Image/mmexport1780990258176.jpg",
+      "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/eletric-step/Image/mmexport1780990258176.jpg",
+      "exists": false,
+      "used_by_fitment_count": 21,
+      "status": "missing_source_image"
+    },
+    {
+      "file_name": "mmexport1780990445714.jpg",
+      "relative_path": "Image/mmexport1780990445714.jpg",
+      "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/eletric-step/Image/mmexport1780990445714.jpg",
+      "exists": false,
+      "used_by_fitment_count": 21,
+      "status": "missing_source_image"
+    }
+  ]
+}

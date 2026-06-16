@@ -1,0 +1,66 @@
+# ── 敏感/运行时数据 排除 ──────────────────────────────────
+.env
+.env.local
+.env.*.local
+auth.json
+channel_directory.json
+feishu_seen_message_ids.json
+
+# ── 网关运行时 ────────────────────────────────────────────
+gateway.*
+gateway_state.json
+gateway.lock
+gateway.pid
+
+# ── 会话/记忆/日志 ────────────────────────────────────────
+sessions/
+logs/
+memories/
+memories/MEMORY.md
+
+# ── 缓存/临时文件 ─────────────────────────────────────────
+cache/
+image_cache/
+audio_cache/
+tmp/
+pastes/
+pairing/
+checkpoints/
+sandboxes/
+plans/
+skins/
+
+# ── 数据库 ────────────────────────────────────────────────
+*.db
+*.db-shm
+*.db-wal
+state.db*
+
+# ── 系统文件 ──────────────────────────────────────────────
+.DS_Store
+.history
+.hermes_history
+models_dev_cache.json
+interrupt_debug.log
+processes.json
+.tick.lock
+.update_check
+.no-bundled-skills
+
+# ── Home 软链接 ───────────────────────────────────────────
+home/
+
+# ── Node ──────────────────────────────────────────────────
+node_modules/
+
+# ── Hermes 运行时元数据 ────────────────────────────────────
+skills/.bundled_manifest
+skills/.curator_state
+skills/.usage.json
+skills/.usage.json.lock
+skills/.hub/
+skills/.webui-managed-skills.json
+
+# ── 构建产物 ──────────────────────────────────────────────
+*.pyc
+__pycache__/

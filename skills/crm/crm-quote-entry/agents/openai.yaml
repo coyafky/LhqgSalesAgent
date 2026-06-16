@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRM 报价"
+  short_description: "写入报价、成交和收款状态"
+  default_prompt: "Use $crm-quote-entry to create or update a CRM quote."
+policy:
+  allow_implicit_invocation: true

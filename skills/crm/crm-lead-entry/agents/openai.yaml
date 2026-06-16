@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRM 线索录入"
+  short_description: "自然语言录入和更新 CRM 线索"
+  default_prompt: "Use $crm-lead-entry to parse a sales lead and write it into CRM."
+policy:
+  allow_implicit_invocation: true

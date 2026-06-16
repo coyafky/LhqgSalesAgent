@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">店长销售数据分析工作流</title>
+  <desc id="desc">店长通过自然语言让 Agent 分析 CRM 数据，识别漏斗、团队和本月业绩问题。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#2d3f4a"/></marker>
+    <style>
+      .bg{fill:#f8faf8}.title{font:700 32px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#1e2a32}.sub{font:15px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#596970}
+      .box{fill:#fff;stroke:#8196a0;stroke-width:1.5}.agent{fill:#e8f4ef;stroke:#31745e}.data{fill:#eef2fb;stroke:#5b6fa8}.out{fill:#fff3dd;stroke:#b87920}
+      .label{font:700 18px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#263238}.txt{font:14px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#455a64}.tiny{font:12px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#607d8b}
+      .line{stroke:#2d3f4a;stroke-width:2;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="700"/>
+  <text class="title" x="60" y="64">Workflow 06：店长销售数据分析</text>
+  <text class="sub" x="60" y="94">目标：让店长用自然语言查看本月销售状态，找到漏斗问题和团队动作。</text>
+
+  <rect class="box" x="65" y="150" width="205" height="118" rx="10"/>
+  <text class="label" x="118" y="186">店长问题</text>
+  <text class="txt" x="95" y="216">“本月为什么没达标？”</text>
+  <text class="tiny" x="95" y="240">按门店、销售、产品、阶段</text>
+
+  <rect class="data" x="330" y="130" width="225" height="158" rx="12"/>
+  <text class="label" x="382" y="168">数据读取</text>
+  <text class="txt" x="360" y="200">CRM 客户与跟进</text>
+  <text class="txt" x="360" y="224">成交金额与产品</text>
+  <text class="txt" x="360" y="248">来源渠道与销售归属</text>
+
+  <rect class="agent" x="615" y="130" width="225" height="158" rx="12"/>
+  <text class="label" x="667" y="168">分析模型</text>
+  <text class="txt" x="645" y="200">漏斗转化率</text>
+  <text class="txt" x="645" y="224">跟进及时率</text>
+  <text class="txt" x="645" y="248">产品结构与客单价</text>
+
+  <rect class="agent" x="900" y="130" width="225" height="158" rx="12"/>
+  <text class="label" x="953" y="168">管理建议</text>
+  <text class="txt" x="930" y="200">重点客户清单</text>
+  <text class="txt" x="930" y="224">团队训练主题</text>
+  <text class="txt" x="930" y="248">本周行动优先级</text>
+
+  <rect class="out" x="105" y="440" width="235" height="120" rx="10"/>
+  <text class="label" x="158" y="476">经营看板</text>
+  <text class="txt" x="135" y="506">业绩、线索、转化</text>
+  <text class="tiny" x="135" y="528">日报/周报/月报</text>
+
+  <rect class="out" x="385" y="440" width="235" height="120" rx="10"/>
+  <text class="label" x="438" y="476">问题定位</text>
+  <text class="txt" x="415" y="506">卡在获客、跟进或成交</text>
+  <text class="tiny" x="415" y="528">按销售和产品拆解</text>
+
+  <rect class="out" x="665" y="440" width="235" height="120" rx="10"/>
+  <text class="label" x="718" y="476">行动清单</text>
+  <text class="txt" x="695" y="506">今天追谁、练什么</text>
+  <text class="tiny" x="695" y="528">面向店长排班和辅导</text>
+
+  <rect class="out" x="945" y="440" width="170" height="120" rx="10"/>
+  <text class="label" x="987" y="476">回写</text>
+  <text class="txt" x="975" y="506">复盘结论</text>
+  <text class="tiny" x="975" y="528">沉淀到运营记录</text>
+
+  <path class="line" d="M270 209 L330 209"/>
+  <path class="line" d="M555 209 L615 209"/>
+  <path class="line" d="M840 209 L900 209"/>
+  <path class="line" d="M1013 288 C1013 375 222 365 222 440"/>
+  <path class="line" d="M1013 288 C1013 375 502 365 502 440"/>
+  <path class="line" d="M1013 288 C1013 375 782 365 782 440"/>
+  <path class="line" d="M1013 288 L1030 440"/>
+</svg>

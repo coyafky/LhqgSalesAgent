@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRM 跟进记录"
+  short_description: "记录客户沟通结果并关联线索"
+  default_prompt: "Use $crm-followup-entry to record a customer follow-up in CRM."
+policy:
+  allow_implicit_invocation: true

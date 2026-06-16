@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRM 售后"
+  short_description: "记录售后问题、回访和处理进展"
+  default_prompt: "Use $crm-after-sales-entry to record or update an after-sales case."
+policy:
+  allow_implicit_invocation: true

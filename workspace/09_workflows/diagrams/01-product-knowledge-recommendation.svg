@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">产品知识与推荐工作流</title>
+  <desc id="desc">销售用自然语言询问产品、客户需求或对比问题，Agent 检索知识库并生成推荐话术。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#27424c"/></marker>
+    <style>
+      .bg{fill:#f8faf7}.title{font:700 32px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#1d2b32}.sub{font:15px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#5b6870}
+      .box{fill:#fff;stroke:#8aa0a8;stroke-width:1.5}.agent{fill:#e7f4ef;stroke:#2f6f5e}.kb{fill:#eef2fb;stroke:#566dab}.out{fill:#fff4df;stroke:#b87920}
+      .label{font:700 18px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#263238}.txt{font:14px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#455a64}.tiny{font:12px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#607d8b}
+      .line{stroke:#27424c;stroke-width:2;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="680"/>
+  <text class="title" x="60" y="64">Workflow 01：产品知识与场景化推荐</text>
+  <text class="sub" x="60" y="94">目标：让销售快速理解产品，并把产品能力翻译成客户听得懂的购买理由。</text>
+
+  <rect class="box" x="70" y="170" width="185" height="92" rx="10"/>
+  <text class="label" x="105" y="204">销售输入</text>
+  <text class="txt" x="95" y="232">客户车型/预算/诉求</text>
+  <text class="tiny" x="95" y="252">例如隔热、防刮、外观</text>
+
+  <rect class="agent" x="325" y="150" width="230" height="132" rx="12"/>
+  <text class="label" x="366" y="188">需求理解层</text>
+  <text class="txt" x="354" y="218">提取车型、场景、痛点</text>
+  <text class="txt" x="354" y="242">判断产品类别与预算段</text>
+  <text class="tiny" x="354" y="264">信息不足时先追问</text>
+
+  <rect class="kb" x="625" y="115" width="240" height="92" rx="10"/>
+  <text class="label" x="666" y="150">产品知识库</text>
+  <text class="txt" x="654" y="178">车衣/窗膜/改色膜/保养</text>
+  <rect class="kb" x="625" y="245" width="240" height="92" rx="10"/>
+  <text class="label" x="681" y="280">FAQ 与边界</text>
+  <text class="txt" x="657" y="308">质保、施工、售后、风险</text>
+
+  <rect class="agent" x="935" y="150" width="205" height="132" rx="12"/>
+  <text class="label" x="978" y="188">推荐决策</text>
+  <text class="txt" x="965" y="218">匹配产品与理由</text>
+  <text class="txt" x="965" y="242">生成对比与备选</text>
+  <text class="tiny" x="965" y="264">禁止编造价格库存</text>
+
+  <rect class="out" x="190" y="430" width="250" height="112" rx="10"/>
+  <text class="label" x="238" y="466">给客户的话术</text>
+  <text class="txt" x="220" y="496">一句话推荐 + 为什么适合</text>
+  <text class="tiny" x="220" y="518">可直接复制给客户</text>
+
+  <rect class="out" x="505" y="430" width="250" height="112" rx="10"/>
+  <text class="label" x="558" y="466">销售内部提示</text>
+  <text class="txt" x="535" y="496">还缺哪些信息</text>
+  <text class="tiny" x="535" y="518">下一步：看样膜/到店/报价</text>
+
+  <rect class="out" x="820" y="430" width="250" height="112" rx="10"/>
+  <text class="label" x="879" y="466">CRM 摘要</text>
+  <text class="txt" x="850" y="496">诉求、预算、产品偏好</text>
+  <text class="tiny" x="850" y="518">供后续跟进写入</text>
+
+  <path class="line" d="M255 216 L325 216"/>
+  <path class="line" d="M555 198 C585 185 590 170 625 160"/>
+  <path class="line" d="M555 236 C585 250 590 280 625 291"/>
+  <path class="line" d="M865 160 L935 198"/>
+  <path class="line" d="M865 291 L935 236"/>
+  <path class="line" d="M1038 282 C1038 365 315 360 315 430"/>
+  <path class="line" d="M1038 282 C1038 365 630 360 630 430"/>
+  <path class="line" d="M1038 282 C1038 365 945 360 945 430"/>
+</svg>

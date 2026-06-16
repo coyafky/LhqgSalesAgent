@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "title": "小米产品款式知识库",
+    "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+    "generated_at": "2026-06-12T14:11:32",
+    "product_count": 18,
+    "image_count": 18,
+    "models": [
+      "SU7",
+      "YU7"
+    ],
+    "image_extraction": "BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE records were reconstructed before PNG extraction.",
+    "linking_rule": "图片按Workbook内PNG出现顺序，与Excel中非空产品行顺序一一匹配。"
+  },
+  "products": [
+    {
+      "id": "xiaomi-su7-001",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "前包围",
+      "display_name": "SU7 前包围",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 5,
+      "order_in_model": 1,
+      "image": {
+        "relative_path": "Image/SU7/SU7-01-前包围.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-01-前包围.png",
+        "format": "PNG",
+        "width": 2523,
+        "height": 1661,
+        "sha256": "ad3e2170bf1f16332a0cfdf68dc4822ed7ec24611da591f04553a75b28ec11cc"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-002",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "刹车油门踏板",
+      "display_name": "SU7 刹车油门踏板",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 6,
+      "order_in_model": 2,
+      "image": {
+        "relative_path": "Image/SU7/SU7-02-刹车油门踏板.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-02-刹车油门踏板.png",
+        "format": "PNG",
+        "width": 781,
+        "height": 490,
+        "sha256": "4a0520969628b6a685f08fa8b850fe9cca242b64500a189b328053a18b70805a"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-003",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "座椅背板",
+      "display_name": "SU7 座椅背板",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 7,
+      "order_in_model": 3,
+      "image": {
+        "relative_path": "Image/SU7/SU7-03-座椅背板.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-03-座椅背板.png",
+        "format": "PNG",
+        "width": 654,
+        "height": 691,
+        "sha256": "3b74b4fe35fa1d0ff9558825267087414bf7870b72a56b2a1878cb1c957ae8b7"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-004",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "侧裙",
+      "display_name": "SU7 侧裙",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 9,
+      "order_in_model": 4,
+      "image": {
+        "relative_path": "Image/SU7/SU7-04-侧裙.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-04-侧裙.png",
+        "format": "PNG",
+        "width": 989,
+        "height": 660,
+        "sha256": "6a5434289e57786ae121577bea513c0e5edd90c72102aa27856a7bef6ee4714c"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-005",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "方向盘",
+      "display_name": "SU7 方向盘",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 10,
+      "order_in_model": 5,
+      "image": {
+        "relative_path": "Image/SU7/SU7-05-方向盘.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-05-方向盘.png",
+        "format": "PNG",
+        "width": 800,
+        "height": 634,
+        "sha256": "a480be4eb019320dddb66a16fa64d98a4dfc4d2d3bc6bf064fad9248f8b1f2df"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-006",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "出风口",
+      "display_name": "SU7 出风口",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 11,
+      "order_in_model": 6,
+      "image": {
+        "relative_path": "Image/SU7/SU7-06-出风口.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-06-出风口.png",
+        "format": "PNG",
+        "width": 580,
+        "height": 283,
+        "sha256": "77c0e3c2bbc0b6d021d9fc528eb99bf32cb70267154547a66acd51e98d3f6cbc"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-007",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "后视镜",
+      "display_name": "SU7 后视镜",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 12,
+      "order_in_model": 7,
+      "image": {
+        "relative_path": "Image/SU7/SU7-07-后视镜.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-07-后视镜.png",
+        "format": "PNG",
+        "width": 869,
+        "height": 545,
+        "sha256": "341cc90c7cf450d95a1498196499be3c555fda690c82504cc2fd534b5502cd1d"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-008",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "机盖",
+      "display_name": "SU7 机盖",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 13,
+      "order_in_model": 8,
+      "image": {
+        "relative_path": "Image/SU7/SU7-08-机盖.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-08-机盖.png",
+        "format": "PNG",
+        "width": 771,
+        "height": 540,
+        "sha256": "f1bcc64b90abc2c4e40ab6c362e87b8e51374ba75f0f5812d5ab5d72d025accc"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-009",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "门饰条",
+      "display_name": "SU7 门饰条",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 14,
+      "order_in_model": 9,
+      "image": {
+        "relative_path": "Image/SU7/SU7-09-门饰条.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-09-门饰条.png",
+        "format": "PNG",
+        "width": 896,
+        "height": 620,
+        "sha256": "faf87e799dce33263ab093f058459df6cacf6f95d38ab19a2aa470914dd761fb"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-010",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "尾翼",
+      "display_name": "SU7 尾翼",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 15,
+      "order_in_model": 10,
+      "image": {
+        "relative_path": "Image/SU7/SU7-10-尾翼.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-10-尾翼.png",
+        "format": "PNG",
+        "width": 1081,
+        "height": 553,
+        "sha256": "96c7bdf3abca231e8538b61b5af28372c14442dd04ecc1138eddb2dbfb8cda10"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-011",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "迎宾踏板",
+      "display_name": "SU7 迎宾踏板",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 16,
+      "order_in_model": 11,
+      "image": {
+        "relative_path": "Image/SU7/SU7-11-迎宾踏板.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-11-迎宾踏板.png",
+        "format": "PNG",
+        "width": 748,
+        "height": 478,
+        "sha256": "3545a2168b4e8db09eb49f24391beda2f883c75af2cd4ac85ee05a2f8a2b7a44"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-su7-012",
+      "brand": "小米",
+      "vehicle_model": "SU7",
+      "product_name": "中控面板",
+      "display_name": "SU7 中控面板",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "SU7 ",
+      "source_row": 17,
+      "order_in_model": 12,
+      "image": {
+        "relative_path": "Image/SU7/SU7-12-中控面板.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/SU7/SU7-12-中控面板.png",
+        "format": "PNG",
+        "width": 1191,
+        "height": 634,
+        "sha256": "c13e1070eee6688f7d2ac9166fd818a639abfcacb07ac867f8821f350a8449a1"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-yu7-001",
+      "brand": "小米",
+      "vehicle_model": "YU7",
+      "product_name": "大灯饰板",
+      "display_name": "YU7 大灯饰板",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "YU7 ",
+      "source_row": 5,
+      "order_in_model": 1,
+      "image": {
+        "relative_path": "Image/YU7/YU7-01-大灯饰板.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/YU7/YU7-01-大灯饰板.png",
+        "format": "PNG",
+        "width": 714,
+        "height": 429,
+        "sha256": "628933fa2be03499eb099e836a7157d88d89a31bed10623d44fa18839be1beff"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-yu7-002",
+      "brand": "小米",
+      "vehicle_model": "YU7",
+      "product_name": "出风口",
+      "display_name": "YU7 出风口",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "YU7 ",
+      "source_row": 6,
+      "order_in_model": 2,
+      "image": {
+        "relative_path": "Image/YU7/YU7-02-出风口.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/YU7/YU7-02-出风口.png",
+        "format": "PNG",
+        "width": 835,
+        "height": 555,
+        "sha256": "134a0b685d6416055ec00f15a47b322a60482ff10ceda8ad7c43658afc95800b"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-yu7-003",
+      "brand": "小米",
+      "vehicle_model": "YU7",
+      "product_name": "后扰流板",
+      "display_name": "YU7 后扰流板",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "YU7 ",
+      "source_row": 7,
+      "order_in_model": 3,
+      "image": {
+        "relative_path": "Image/YU7/YU7-03-后扰流板.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/YU7/YU7-03-后扰流板.png",
+        "format": "PNG",
+        "width": 921,
+        "height": 423,
+        "sha256": "4243d6f20404574aacd314ee9d4e5f69948537d25b2f5f20785ed65032261c59"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-yu7-004",
+      "brand": "小米",
+      "vehicle_model": "YU7",
+      "product_name": "后视镜壳",
+      "display_name": "YU7 后视镜壳",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "YU7 ",
+      "source_row": 8,
+      "order_in_model": 4,
+      "image": {
+        "relative_path": "Image/YU7/YU7-04-后视镜壳.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/YU7/YU7-04-后视镜壳.png",
+        "format": "PNG",
+        "width": 934,
+        "height": 524,
+        "sha256": "dd8203646bc59726300da10e1547f24b65538fd3fe824cfda205144b49f59d89"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-yu7-005",
+      "brand": "小米",
+      "vehicle_model": "YU7",
+      "product_name": "迎宾踏板",
+      "display_name": "YU7 迎宾踏板",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "YU7 ",
+      "source_row": 9,
+      "order_in_model": 5,
+      "image": {
+        "relative_path": "Image/YU7/YU7-05-迎宾踏板.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/YU7/YU7-05-迎宾踏板.png",
+        "format": "PNG",
+        "width": 939,
+        "height": 555,
+        "sha256": "b2f9d56531bf80842c7e9e7fe6aa1f8357b1fd59d5368d58fe6070ad4efa0186"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    },
+    {
+      "id": "xiaomi-yu7-006",
+      "brand": "小米",
+      "vehicle_model": "YU7",
+      "product_name": "中控面板",
+      "display_name": "YU7 中控面板",
+      "source_file": "/Users/fkycoya/Downloads/小米产品款式.xls",
+      "source_sheet": "YU7 ",
+      "source_row": 10,
+      "order_in_model": 6,
+      "image": {
+        "relative_path": "Image/YU7/YU7-06-中控面板.png",
+        "absolute_path": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/xiaomi/Image/YU7/YU7-06-中控面板.png",
+        "format": "PNG",
+        "width": 1036,
+        "height": 389,
+        "sha256": "9b64a022baee6518539a27cac34f33986f3a9bbcfdfd021c4d28fbe24bf358e6"
+      },
+      "knowledge_type": "product_style",
+      "notes": "从小米产品款式.xls解析；图片从BIFF MSODRAWINGGROUP/MSODRAWING/CONTINUE记录重组后提取，并按工作簿图片顺序与产品行顺序匹配。"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">跟进与售后工作流</title>
+  <desc id="desc">Agent 根据 CRM 和客户阶段生成跟进提醒、复购建议和售后处理话术。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#2d3f4a"/></marker>
+    <style>
+      .bg{fill:#f8faf8}.title{font:700 32px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#1e2a32}.sub{font:15px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#596970}
+      .box{fill:#fff;stroke:#8196a0;stroke-width:1.5}.agent{fill:#e8f4ef;stroke:#31745e}.data{fill:#eef2fb;stroke:#5b6fa8}.out{fill:#fff3dd;stroke:#b87920}
+      .label{font:700 18px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#263238}.txt{font:14px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#455a64}.tiny{font:12px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#607d8b}
+      .line{stroke:#2d3f4a;stroke-width:2;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="680"/>
+  <text class="title" x="60" y="64">Workflow 05：跟进、复购与售后</text>
+  <text class="sub" x="60" y="94">目标：让客户关系持续被照看，销售知道今天该联系谁、说什么、记录什么。</text>
+
+  <rect class="data" x="70" y="150" width="205" height="126" rx="10"/>
+  <text class="label" x="124" y="186">CRM 数据</text>
+  <text class="txt" x="100" y="216">客户阶段、上次沟通</text>
+  <text class="txt" x="100" y="240">施工日期、售后状态</text>
+
+  <rect class="agent" x="335" y="130" width="225" height="166" rx="12"/>
+  <text class="label" x="386" y="170">触发判断</text>
+  <text class="txt" x="365" y="202">未跟进超过 N 天</text>
+  <text class="txt" x="365" y="226">已施工需复检/保养提醒</text>
+  <text class="txt" x="365" y="250">客户有异议待处理</text>
+
+  <rect class="agent" x="620" y="130" width="225" height="166" rx="12"/>
+  <text class="label" x="671" y="170">内容生成</text>
+  <text class="txt" x="650" y="202">跟进话术</text>
+  <text class="txt" x="650" y="226">售后安抚与处理建议</text>
+  <text class="txt" x="650" y="250">复购或转介绍提示</text>
+
+  <rect class="box" x="905" y="150" width="205" height="126" rx="10"/>
+  <text class="label" x="960" y="186">销售执行</text>
+  <text class="txt" x="935" y="216">发送消息/电话/邀约</text>
+  <text class="tiny" x="935" y="240">结果继续回写 CRM</text>
+
+  <rect class="out" x="150" y="435" width="245" height="116" rx="10"/>
+  <text class="label" x="206" y="471">今日待办</text>
+  <text class="txt" x="180" y="501">重点客户列表</text>
+  <text class="tiny" x="180" y="523">按优先级排序</text>
+
+  <rect class="out" x="478" y="435" width="245" height="116" rx="10"/>
+  <text class="label" x="533" y="471">对客话术</text>
+  <text class="txt" x="508" y="501">可复制的跟进内容</text>
+  <text class="tiny" x="508" y="523">根据阶段和情绪调整</text>
+
+  <rect class="out" x="806" y="435" width="245" height="116" rx="10"/>
+  <text class="label" x="861" y="471">记录结果</text>
+  <text class="txt" x="836" y="501">跟进内容与下一步</text>
+  <text class="tiny" x="836" y="523">写回 CRM 形成闭环</text>
+
+  <path class="line" d="M275 213 L335 213"/>
+  <path class="line" d="M560 213 L620 213"/>
+  <path class="line" d="M845 213 L905 213"/>
+  <path class="line" d="M1008 276 C1008 370 272 360 272 435"/>
+  <path class="line" d="M1008 276 C1008 370 600 360 600 435"/>
+  <path class="line" d="M1008 276 C1008 370 928 360 928 435"/>
+</svg>

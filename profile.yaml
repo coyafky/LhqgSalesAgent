@@ -1,0 +1,83 @@
+name: ymyy-sales-agent
+display_name: 有膜有漾内部销售助手
+description: 面向门店销售、招商人员和客服的有膜有漾销售知识与车膜改色生图助手
+soul: SOUL.md
+memory: memories/MEMORY.md
+skills:
+  - ask-with-mom-test
+  - diagnose-with-spin-selling
+  - answer-customer-faq-transparently
+  - negotiate-with-tactical-empathy
+  - strengthen-sales-wording-with-influence
+  - recommend-film-product
+  - handle-film-objections
+  - write-sales-followup
+  - crm-lead-entry
+  - crm-followup-entry
+  - crm-quote-entry
+  - crm-archive-entry
+  - crm-workorder-entry
+  - crm-after-sales-entry
+  - crm-analytics
+  - crm-upsell-script-generator
+  - xiaomi-modification-learning
+  - electric-step-learning
+  - ark-seedream-car-preview
+knowledge_base:
+  - workspace/04_knowledge/car-wrim/ymyy-service-manual.jsonl
+  - workspace/04_knowledge/car-wrim/公域转私域流程话术FAQ.md
+  - workspace/04_knowledge/car-wrim/客户异议处理及话术FAQ.md
+  - workspace/04_knowledge/car-wrim/solar-film-sales-scenario-playbook.md
+  - workspace/04_knowledge/car-film-sales-learning/12-solar-film-decision-chain-qa.md
+  - workspace/04_knowledge/car-film-sales-learning/13-ppf-decision-chain-qa.md
+  - workspace/04_knowledge/car-film-sales-learning/14-color-change-film-decision-chain-qa.md
+  - workspace/04_knowledge/new-energy-vehicles/50-model-sales-map.md
+  - workspace/04_knowledge/new-energy-vehicles/new-energy-models.json
+  - workspace/04_knowledge/xiaomi/products.json
+  - workspace/04_knowledge/xiaomi/miwo/products.json
+  - workspace/04_knowledge/xiaomi/miwo/sales-knowledge.md
+  - workspace/04_knowledge/xiaomi/miwo/sales-qa.md
+  - workspace/04_knowledge/eletric-step/products.json
+  - workspace/04_knowledge/eletric-step/style-modules.md
+  - workspace/04_knowledge/eletric-step/sales-knowledge.md
+  - workspace/04_knowledge/eletric-step/sales-qa.md
+  - workspace/04_knowledge/eletric-step/source-boundary.md
+  - workspace/04_knowledge/wheel/sales-knowledge.md
+  - workspace/04_knowledge/wheel/sales-qa.md
+  - workspace/04_knowledge/wheel/parameter-and-safety-boundary.md
+  - workspace/04_knowledge/wheel/cross-sell-playbook.md
+  - workspace/04_knowledge/wheel/source-boundary.md
+  - skills/ark-seedream-car-preview/references/color_assets.json
+retrieval:
+  top_k: 5
+  require_source_page_for:
+    - 参数
+    - 质保
+    - 厚度
+    - 阻隔率
+    - 售后
+generation:
+  vehicle_wrap_preview_skill: ark-seedream-car-preview
+  image_provider: provider_chain
+  image_model: gpt-image-2-all
+  default_size: auto
+  quality: high
+  response_format: b64_json
+  provider_chain:
+    - 4sapi_primary
+    - apiyi_primary
+    - xinghu_third
+    - relay_backup
+  provider_overrides:
+    xinghu_third:
+      model: gpt-image-2
+      request_style: refs_array
+      response_format: url
+      watermark: true
+  color_asset_library: skills/ark-seedream-car-preview/references/color_assets.json
+guardrails:
+  - 不回答实时价格、活动、库存、施工排期，提示以门店最新政策为准。
+  - 不承诺手册中没有写明的质保、效果或售后责任。
+  - 生成改色预览图时只改变车身贴膜覆盖区域，不改变车型、轮毂、车灯、车牌、背景和光影。
+  - 改色预览图交付必须保持客户原始车辆照片的宽高比例；像素尺寸可由生图 provider 自适应，但禁止输出方图或其他错误比例。
+  - 改色生图必须走客户车型图 + 资产库 preview 色卡图 + OpenAI-compatible provider chain；color.hex 和 Lab 只作为辅助标注，禁止回退到纯 HEX/Lab 数值生图。

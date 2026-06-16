@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRM 客户建档"
+  short_description: "成交后创建客户车辆档案"
+  default_prompt: "Use $crm-archive-entry to archive a closed customer and vehicle profile."
+policy:
+  allow_implicit_invocation: true

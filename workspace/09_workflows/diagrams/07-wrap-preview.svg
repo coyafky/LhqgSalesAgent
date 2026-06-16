@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">改色膜上车效果图工作流</title>
+  <desc id="desc">销售提供客户实车图和色号，Agent 查询本地色卡资产并生成 AI 改色预览图。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#2d3f4a"/></marker>
+    <style>
+      .bg{fill:#f8faf8}.title{font:700 32px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#1e2a32}.sub{font:15px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#596970}
+      .box{fill:#fff;stroke:#8196a0;stroke-width:1.5}.agent{fill:#e8f4ef;stroke:#31745e}.asset{fill:#eef2fb;stroke:#5b6fa8}.guard{fill:#fff3dd;stroke:#b87920}.out{fill:#e9f7e8;stroke:#3a7f43}
+      .label{font:700 18px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#263238}.txt{font:14px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#455a64}.tiny{font:12px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#607d8b}
+      .line{stroke:#2d3f4a;stroke-width:2;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="700"/>
+  <text class="title" x="60" y="64">Workflow 07：改色膜上车效果图</text>
+  <text class="sub" x="60" y="94">目标：把“客户实车图 + 色号/色卡”转成可辅助成交的改色预览图，并保留真实边界说明。</text>
+
+  <rect class="box" x="60" y="145" width="205" height="136" rx="10"/>
+  <text class="label" x="112" y="182">销售输入</text>
+  <text class="txt" x="90" y="214">客户实车图</text>
+  <text class="txt" x="90" y="238">色号/色名/色卡图</text>
+  <text class="tiny" x="90" y="260">例如 D-325 或宝马阿布扎比蓝</text>
+
+  <rect class="asset" x="325" y="125" width="225" height="176" rx="12"/>
+  <text class="label" x="376" y="164">资产查询</text>
+  <text class="txt" x="355" y="196">color_assets.json</text>
+  <text class="txt" x="355" y="220">preview 色卡图</text>
+  <text class="txt" x="355" y="244">HEX/Lab 仅辅助标注</text>
+  <text class="tiny" x="355" y="268">查不到时要求补色卡图</text>
+
+  <rect class="agent" x="610" y="125" width="225" height="176" rx="12"/>
+  <text class="label" x="661" y="164">生图执行</text>
+  <text class="txt" x="640" y="196">ark-seedream-car-preview</text>
+  <text class="txt" x="640" y="220">车辆图 + 色卡图</text>
+  <text class="txt" x="640" y="244">保持车型、背景、比例</text>
+  <text class="tiny" x="640" y="268">provider chain 自动尝试</text>
+
+  <rect class="guard" x="895" y="125" width="225" height="176" rx="12"/>
+  <text class="label" x="947" y="164">质量检查</text>
+  <text class="txt" x="925" y="196">车身区域是否正确</text>
+  <text class="txt" x="925" y="220">宽高比例是否保持</text>
+  <text class="txt" x="925" y="244">不得承诺零色差</text>
+
+  <rect class="out" x="160" y="445" width="250" height="120" rx="10"/>
+  <text class="label" x="215" y="481">预览图交付</text>
+  <text class="txt" x="190" y="511">可发给客户确认效果</text>
+  <text class="tiny" x="190" y="533">附 AI 预览说明</text>
+
+  <rect class="out" x="475" y="445" width="250" height="120" rx="10"/>
+  <text class="label" x="530" y="481">销售建议</text>
+  <text class="txt" x="505" y="511">引导看实物色卡</text>
+  <text class="tiny" x="505" y="533">预约到店或确认方案</text>
+
+  <rect class="out" x="790" y="445" width="250" height="120" rx="10"/>
+  <text class="label" x="845" y="481">CRM 记录</text>
+  <text class="txt" x="820" y="511">客户偏好色号与图片</text>
+  <text class="tiny" x="820" y="533">后续可追踪成交转化</text>
+
+  <path class="line" d="M265 213 L325 213"/>
+  <path class="line" d="M550 213 L610 213"/>
+  <path class="line" d="M835 213 L895 213"/>
+  <path class="line" d="M1008 301 C1008 388 285 370 285 445"/>
+  <path class="line" d="M1008 301 C1008 388 600 370 600 445"/>
+  <path class="line" d="M1008 301 C1008 388 915 370 915 445"/>
+</svg>

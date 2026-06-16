@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">异议处理与成交推进工作流</title>
+  <desc id="desc">客户压价、犹豫或比较竞品时，Agent 先识别顾虑，再生成可信、克制、可推进的话术。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#2d3f4a"/></marker>
+    <style>
+      .bg{fill:#f9faf8}.title{font:700 32px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#1e2a32}.sub{font:15px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#596970}
+      .box{fill:#fff;stroke:#8196a0;stroke-width:1.5}.agent{fill:#e8f4ef;stroke:#31745e}.guard{fill:#fff3dd;stroke:#b87920}.out{fill:#eef2fb;stroke:#5b6fa8}
+      .label{font:700 18px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#263238}.txt{font:14px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#455a64}.tiny{font:12px "PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#607d8b}
+      .line{stroke:#2d3f4a;stroke-width:2;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="680"/>
+  <text class="title" x="60" y="64">Workflow 04：异议处理与成交推进</text>
+  <text class="sub" x="60" y="94">目标：处理价格、信任、竞品、效果和时机顾虑，推进合理下一步，而不是强行逼单。</text>
+
+  <rect class="box" x="70" y="170" width="200" height="112" rx="10"/>
+  <text class="label" x="110" y="205">异议输入</text>
+  <text class="txt" x="100" y="235">“太贵了” “再看看”</text>
+  <text class="tiny" x="100" y="258">可来自聊天记录或销售口述</text>
+
+  <rect class="agent" x="330" y="145" width="220" height="162" rx="12"/>
+  <text class="label" x="382" y="184">顾虑分类</text>
+  <text class="txt" x="360" y="216">价格/信任/效果</text>
+  <text class="txt" x="360" y="240">施工风险/竞品比较</text>
+  <text class="txt" x="360" y="264">决策人或时间问题</text>
+
+  <rect class="agent" x="610" y="145" width="220" height="162" rx="12"/>
+  <text class="label" x="660" y="184">话术生成</text>
+  <text class="txt" x="640" y="216">战术同理心：命名顾虑</text>
+  <text class="txt" x="640" y="240">透明解释价值与边界</text>
+  <text class="txt" x="640" y="264">给出低压力下一步</text>
+
+  <rect class="guard" x="890" y="145" width="220" height="162" rx="12"/>
+  <text class="label" x="940" y="184">合规边界</text>
+  <text class="txt" x="920" y="216">不编造优惠</text>
+  <text class="txt" x="920" y="240">不攻击竞品</text>
+  <text class="txt" x="920" y="264">不制造虚假稀缺</text>
+
+  <rect class="out" x="170" y="435" width="235" height="116" rx="10"/>
+  <text class="label" x="222" y="471">客户回复</text>
+  <text class="txt" x="200" y="501">可直接发送的话术</text>
+  <text class="tiny" x="200" y="523">语气自然、可信、克制</text>
+
+  <rect class="out" x="482" y="435" width="235" height="116" rx="10"/>
+  <text class="label" x="535" y="471">推进建议</text>
+  <text class="txt" x="512" y="501">看样膜/到店/报价确认</text>
+  <text class="tiny" x="512" y="523">给销售下一步动作</text>
+
+  <rect class="out" x="794" y="435" width="235" height="116" rx="10"/>
+  <text class="label" x="847" y="471">CRM 更新</text>
+  <text class="txt" x="824" y="501">记录异议与处理结果</text>
+  <text class="tiny" x="824" y="523">影响后续跟进节奏</text>
+
+  <path class="line" d="M270 226 L330 226"/>
+  <path class="line" d="M550 226 L610 226"/>
+  <path class="line" d="M830 226 L890 226"/>
+  <path class="line" d="M1000 307 C1000 380 287 370 287 435"/>
+  <path class="line" d="M1000 307 C1000 380 600 370 600 435"/>
+  <path class="line" d="M1000 307 C1000 380 912 370 912 435"/>
+</svg>

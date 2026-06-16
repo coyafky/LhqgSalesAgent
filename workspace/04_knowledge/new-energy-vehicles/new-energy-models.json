@@ -1,0 +1,960 @@
+{
+  "title": "热门新能源车型 50 个销售机会地图",
+  "source": "/Users/fkycoya/.hermes/profiles/ymyy-sales-agent/workspace/04_knowledge/new-energy-vehicles/raw/热门新能源车型50个.md",
+  "price_note": "售价区间来自用户提供资料，仅作车型层级参考，不作为当前报价或对客承诺。",
+  "models": [
+    {
+      "rank": 1,
+      "model": "比亚迪 汉",
+      "positioning": "中大型轿车",
+      "brand": "比亚迪",
+      "source_price_range": "18.98-32.98万元",
+      "common_colors": [
+        "玄空黑",
+        "时光灰",
+        "雪域白",
+        "极光蓝",
+        "千山翠"
+      ],
+      "common_modification_needs": [
+        "贴透明车衣保护原厂漆",
+        "改色膜（千山翠风格受追捧）",
+        "轮毂卡钳改色"
+      ],
+      "sales_comment": "中高端轿车保有量较高车型，车主爱惜漆面，车衣和改色需求旺盛，是可作为门店重点关注车型"
+    },
+    {
+      "rank": 2,
+      "model": "比亚迪 唐",
+      "positioning": "中大型 SUV",
+      "brand": "比亚迪",
+      "source_price_range": "17.98-31.48万元",
+      "common_colors": [
+        "玄空黑",
+        "时光灰",
+        "雪域白",
+        "山脉灰"
+      ],
+      "common_modification_needs": [
+        "贴隐形车衣",
+        "安装电动踏板（方便老人小孩上下车）",
+        "内饰保护膜"
+      ],
+      "sales_comment": "家庭用户居多，踏板和车衣组合推荐匹配度较高，适合做套装方案"
+    },
+    {
+      "rank": 3,
+      "model": "比亚迪 海豹",
+      "positioning": "中型轿跑",
+      "brand": "比亚迪",
+      "source_price_range": "17.98-28.98万元",
+      "common_colors": [
+        "亚特兰蒂斯灰",
+        "极光白",
+        "魅影红",
+        "北冰蓝"
+      ],
+      "common_modification_needs": [
+        "改色膜（双拼色上盖黑顶）",
+        "车衣保护",
+        "轮毂熏黑"
+      ],
+      "sales_comment": "年轻车主占比高，改色需求突出，推荐个性改色方案能快速成交"
+    },
+    {
+      "rank": 4,
+      "model": "比亚迪 海豚",
+      "positioning": "小型车",
+      "brand": "比亚迪",
+      "source_price_range": "11.68-13.98万元",
+      "common_colors": [
+        "贝贝灰",
+        "噗噗粉",
+        "冲浪蓝",
+        "蜜蜜橙"
+      ],
+      "common_modification_needs": [
+        "改色膜（卡通/马卡龙风格）",
+        "悬浮顶黑化",
+        "内饰贴膜"
+      ],
+      "sales_comment": "女性车主和首购用户多，价格敏感但改色意愿强，推荐入门级改色套餐"
+    },
+    {
+      "rank": 5,
+      "model": "比亚迪 宋PLUS DM-i",
+      "positioning": "紧凑型 SUV",
+      "brand": "比亚迪",
+      "source_price_range": "12.98-16.98万元",
+      "common_colors": [
+        "时光灰",
+        "雪域白",
+        "玄空黑",
+        "天青色"
+      ],
+      "common_modification_needs": [
+        "隐形车衣（前杠引擎盖局部）",
+        "踏板安装",
+        "车窗镀铬条黑化"
+      ],
+      "sales_comment": "高保有量车型，保有量较高，车衣和踏板是高频需求，适合走量转化"
+    },
+    {
+      "rank": 6,
+      "model": "比亚迪 元PLUS",
+      "positioning": "紧凑型 SUV",
+      "brand": "比亚迪",
+      "source_price_range": "11.98-14.78万元",
+      "common_colors": [
+        "滑雪白",
+        "攀岩灰",
+        "跑酷红",
+        "冲浪蓝"
+      ],
+      "common_modification_needs": [
+        "改色膜（运动风格）",
+        "车顶行李架加装",
+        "内饰碳纤贴膜"
+      ],
+      "sales_comment": "年轻运动定位，改色和外观个性化需求强，适合推性价比改色方案"
+    },
+    {
+      "rank": 7,
+      "model": "比亚迪 海鸥",
+      "positioning": "微型车",
+      "brand": "比亚迪",
+      "source_price_range": "6.98-8.98万元",
+      "common_colors": [
+        "极夜黑",
+        "萌芽绿",
+        "蜜桃粉",
+        "暖阳白"
+      ],
+      "common_modification_needs": [
+        "全车改色（糖果色/哑光）",
+        "轮毂罩改色",
+        "卡通贴纸拉花"
+      ],
+      "sales_comment": "代步小车，车主改色意愿较高，推荐高性价比改色膜方案，适合做基础方案转化"
+    },
+    {
+      "rank": 8,
+      "model": "仰望 U8",
+      "positioning": "大型硬派越野 SUV",
+      "brand": "比亚迪（仰望）",
+      "source_price_range": "109.8万元",
+      "common_colors": [
+        "龙石绿",
+        "月光银",
+        "曜石黑",
+        "萤石白"
+      ],
+      "common_modification_needs": [
+        "全车哑光车衣",
+        "越野护板加装",
+        "轮眉防刮贴膜"
+      ],
+      "sales_comment": "百万级豪车，客户消费力强，推荐顶级车衣+内饰保护，客单价潜力较高"
+    },
+    {
+      "rank": 9,
+      "model": "腾势 D9",
+      "positioning": "中大型 MPV",
+      "brand": "比亚迪（腾势）",
+      "source_price_range": "33.98-66.00万元",
+      "common_colors": [
+        "晨光金",
+        "皓日白",
+        "苍松灰",
+        "深海蓝"
+      ],
+      "common_modification_needs": [
+        "全车车衣",
+        "地板/踏板升级",
+        "车窗隔热膜"
+      ],
+      "sales_comment": "商务+家庭MPV热门车型，车主对整车保护要求高，推荐全车车衣+内饰保护套餐"
+    },
+    {
+      "rank": 10,
+      "model": "方程豹 豹5",
+      "positioning": "中型硬派越野 SUV",
+      "brand": "比亚迪（方程豹）",
+      "source_price_range": "28.98-35.28万元",
+      "common_colors": [
+        "塔里木蓝",
+        "胡杨金",
+        "云杉绿",
+        "雪域白"
+      ],
+      "common_modification_needs": [
+        "全车车衣（越野穿越保护）",
+        "改色（军绿/沙漠黄）",
+        "底盘护板加装"
+      ],
+      "sales_comment": "硬派越野玩家群体，对车辆防护要求高，车衣+护板套装是高频需求"
+    },
+    {
+      "rank": 11,
+      "model": "特斯拉 Model 3",
+      "positioning": "中型轿车",
+      "brand": "特斯拉",
+      "source_price_range": "24.59-33.59万元",
+      "common_colors": [
+        "纯黑",
+        "珍珠白",
+        "冷光银",
+        "深海蓝",
+        "烈焰红"
+      ],
+      "common_modification_needs": [
+        "全车改色（网红双拼色/陶瓷系列）",
+        "轮毂盖黑化",
+        "哑光车衣"
+      ],
+      "sales_comment": "改色膜需求量重点的车型之一，年轻科技用户多，推荐改色+车顶隔热方案"
+    },
+    {
+      "rank": 12,
+      "model": "特斯拉 Model Y",
+      "positioning": "中型 SUV",
+      "brand": "特斯拉",
+      "source_price_range": "26.39-36.39万元",
+      "common_colors": [
+        "纯黑",
+        "珍珠白",
+        "冷光银",
+        "深海蓝",
+        "烈焰红"
+      ],
+      "common_modification_needs": [
+        "全车改色/车衣",
+        "轮毂烤漆黑化",
+        "天窗冰甲隔热膜"
+      ],
+      "sales_comment": "高关注度车型，改色和车衣需求量较高，适合推全车改色套餐等高客单价项目"
+    },
+    {
+      "rank": 13,
+      "model": "特斯拉 Cybertruck",
+      "positioning": "纯电动皮卡",
+      "brand": "特斯拉",
+      "source_price_range": "约43-72万元（国内平行进口）",
+      "common_colors": [
+        "不锈钢原色（可贴膜改色）"
+      ],
+      "common_modification_needs": [
+        "全车改色膜（定制颜色）",
+        "车衣保护不锈钢表面",
+        "货箱覆膜保护"
+      ],
+      "sales_comment": "回头率较高的车型，车主追求个性极致，定制改色方案是重点沟通点"
+    },
+    {
+      "rank": 14,
+      "model": "蔚来 ET5",
+      "positioning": "中型轿车",
+      "brand": "蔚来",
+      "source_price_range": "29.80-35.60万元（BaaS另计）",
+      "common_colors": [
+        "云白",
+        "星灰",
+        "深空黑",
+        "霞光橙",
+        "极光绿"
+      ],
+      "common_modification_needs": [
+        "改色膜（莫兰迪色系）",
+        "车顶黑化",
+        "轮毂改色"
+      ],
+      "sales_comment": "颜值控车主居多，撞色和个性改色需求强，推荐定制色改色方案"
+    },
+    {
+      "rank": 15,
+      "model": "蔚来 ET7",
+      "positioning": "中大型轿车",
+      "brand": "蔚来",
+      "source_price_range": "42.80-50.60万元",
+      "common_colors": [
+        "阿尔卑斯灰",
+        "南极星蓝",
+        "黎空银",
+        "云白"
+      ],
+      "common_modification_needs": [
+        "哑光隐形车衣",
+        "内饰木纹贴膜保护",
+        "轮毂镀铬条黑化"
+      ],
+      "sales_comment": "高端行政座驾，客户注重质感，推荐高端哑光车衣+内饰保护套餐"
+    },
+    {
+      "rank": 16,
+      "model": "蔚来 ES6",
+      "positioning": "中型 SUV",
+      "brand": "蔚来",
+      "source_price_range": "33.80-39.60万元（BaaS另计）",
+      "common_colors": [
+        "同温层蓝",
+        "云白",
+        "星灰",
+        "深空黑",
+        "极光绿"
+      ],
+      "common_modification_needs": [
+        "全车车衣",
+        "安装电动踏板",
+        "车窗亮条黑化"
+      ],
+      "sales_comment": "蔚来高保有量 SUV，家庭用户多，车衣+踏板组合推荐匹配度较高"
+    },
+    {
+      "rank": 17,
+      "model": "小鹏 P7",
+      "positioning": "中型轿跑",
+      "brand": "小鹏",
+      "source_price_range": "22.39-33.99万元",
+      "common_colors": [
+        "月光银",
+        "星云白",
+        "天辰灰",
+        "暗夜黑",
+        "超闪绿"
+      ],
+      "common_modification_needs": [
+        "改色膜（借鉴P7鹏翼版配色）",
+        "轮毂熏黑",
+        "前唇/侧裙贴膜保护"
+      ],
+      "sales_comment": "轿跑造型吸引年轻群体，改色需求旺盛，推荐个性化双拼色方案"
+    },
+    {
+      "rank": 18,
+      "model": "小鹏 G6",
+      "positioning": "中型 SUV",
+      "brand": "小鹏",
+      "source_price_range": "20.99-27.69万元",
+      "common_colors": [
+        "星阙灰",
+        "新月银",
+        "星际绿",
+        "暗夜黑"
+      ],
+      "common_modification_needs": [
+        "隐形车衣",
+        "车顶黑化改色",
+        "轮毂改色"
+      ],
+      "sales_comment": "科技智能定位，车主偏理性消费，推荐局部车衣+轮毂改色性价比方案"
+    },
+    {
+      "rank": 19,
+      "model": "小鹏 G9",
+      "positioning": "中大型 SUV",
+      "brand": "小鹏",
+      "source_price_range": "26.39-35.99万元",
+      "common_colors": [
+        "星云白",
+        "暗夜黑",
+        "星际绿",
+        "新月银"
+      ],
+      "common_modification_needs": [
+        "全车哑光车衣",
+        "内饰膜保护",
+        "改色膜（商务风格）"
+      ],
+      "sales_comment": "豪华大5座SUV，车主对整车质感要求高，推荐高端车衣方案"
+    },
+    {
+      "rank": 20,
+      "model": "理想 L7",
+      "positioning": "中大型 SUV（大五座）",
+      "brand": "理想",
+      "source_price_range": "30.18-37.98万元",
+      "common_colors": [
+        "灰色金属漆",
+        "银色金属漆",
+        "白色珍珠漆",
+        "黑色金属漆",
+        "绿色特别版"
+      ],
+      "common_modification_needs": [
+        "隐形车衣（全车/局部）",
+        "踏板加装",
+        "改色膜（双拼色）"
+      ],
+      "sales_comment": "家庭用车首选，客户注重实用，推荐车衣+踏板实用组合"
+    },
+    {
+      "rank": 21,
+      "model": "理想 L8",
+      "positioning": "中大型 SUV（六座）",
+      "brand": "理想",
+      "source_price_range": "33.98-39.98万元",
+      "common_colors": [
+        "同L7色系（灰/银/白/黑/绿）"
+      ],
+      "common_modification_needs": [
+        "全车车衣",
+        "电动踏板（老人小孩必备）",
+        "内饰防踢膜"
+      ],
+      "sales_comment": "二胎家庭首选，踏板是高频需求，车衣+踏板+内饰保护三件套推荐"
+    },
+    {
+      "rank": 22,
+      "model": "理想 L9",
+      "positioning": "全尺寸 SUV（六座）",
+      "brand": "理想",
+      "source_price_range": "42.98-45.98万元",
+      "common_colors": [
+        "同L7/L8色系",
+        "另可选紫色特别版"
+      ],
+      "common_modification_needs": [
+        "全车顶级车衣",
+        "电动踏板",
+        "车内屏幕保护膜"
+      ],
+      "sales_comment": "旗舰车型，车主消费力强，推荐全套保护方案，客单价高"
+    },
+    {
+      "rank": 23,
+      "model": "理想 MEGA",
+      "positioning": "大型 MPV",
+      "brand": "理想",
+      "source_price_range": "55.98万元",
+      "common_colors": [
+        "大象灰",
+        "熊猫白",
+        "银色",
+        "黑色"
+      ],
+      "common_modification_needs": [
+        "全车车衣（推荐哑光）",
+        "改色膜",
+        "车窗隔热膜"
+      ],
+      "sales_comment": "超50万高端MPV，车主对漆面保护极其重视，推荐顶级车衣方案"
+    },
+    {
+      "rank": 24,
+      "model": "极氪 001",
+      "positioning": "中大型猎装轿跑",
+      "brand": "吉利（极氪）",
+      "source_price_range": "26.90-40.30万元",
+      "common_colors": [
+        "极昼白",
+        "镭射灰",
+        "炭黑",
+        "电光蓝",
+        "极境蓝"
+      ],
+      "common_modification_needs": [
+        "改色膜（电光金属系列极受欢迎）",
+        "哑光车衣",
+        "轮毂改色"
+      ],
+      "sales_comment": "猎装造型改装潜力大，改色需求较旺，推荐电光系列改色膜"
+    },
+    {
+      "rank": 25,
+      "model": "极氪 007",
+      "positioning": "中型轿车",
+      "brand": "吉利（极氪）",
+      "source_price_range": "20.99-29.99万元",
+      "common_colors": [
+        "曙光棕",
+        "星际银",
+        "极夜黑",
+        "皎月白"
+      ],
+      "common_modification_needs": [
+        "隐形车衣",
+        "改色膜（双拼色）",
+        "前脸灯幕贴膜保护"
+      ],
+      "sales_comment": "新晋热门轿车，科技感强，推荐车衣保护+个性改色方案"
+    },
+    {
+      "rank": 26,
+      "model": "极氪 009",
+      "positioning": "中大型 MPV",
+      "brand": "吉利（极氪）",
+      "source_price_range": "49.90-58.80万元",
+      "common_colors": [
+        "极夜黑",
+        "极昼白",
+        "镭射灰"
+      ],
+      "common_modification_needs": [
+        "全车车衣（推荐哑光）",
+        "地板升级保护",
+        "前脸镀铬贴膜黑化"
+      ],
+      "sales_comment": "高端纯电MPV，商务属性强，推荐全车顶级车衣+内饰保护定制方案"
+    },
+    {
+      "rank": 27,
+      "model": "问界 M5",
+      "positioning": "中型 SUV",
+      "brand": "赛力斯（华为赋能）",
+      "source_price_range": "24.98-30.98万元",
+      "common_colors": [
+        "陶瓷白",
+        "鎏金黑",
+        "松霜绿",
+        "天青蓝"
+      ],
+      "common_modification_needs": [
+        "隐形车衣",
+        "改色膜（冰莓粉/液态金属）",
+        "轮毂改色"
+      ],
+      "sales_comment": "华为生态用户群体，注重品质，推荐高端车衣+科技感改色方案"
+    },
+    {
+      "rank": 28,
+      "model": "问界 M7",
+      "positioning": "中大型 SUV",
+      "brand": "赛力斯（华为赋能）",
+      "source_price_range": "25.98-32.98万元",
+      "common_colors": [
+        "冰晶银",
+        "深空灰",
+        "天青蓝",
+        "鎏金黑"
+      ],
+      "common_modification_needs": [
+        "全车车衣",
+        "电动踏板",
+        "车窗镀铬黑化"
+      ],
+      "sales_comment": "家庭+商务兼顾，客户对车衣接受度高，推荐车衣+踏板组合"
+    },
+    {
+      "rank": 29,
+      "model": "问界 M9",
+      "positioning": "全尺寸 SUV",
+      "brand": "赛力斯（华为赋能）",
+      "source_price_range": "46.98-56.98万元",
+      "common_colors": [
+        "星河蓝",
+        "丹霞橙",
+        "雅丹黑",
+        "陶瓷白"
+      ],
+      "common_modification_needs": [
+        "全车顶级哑光车衣",
+        "内饰保护膜",
+        "轮毂改色"
+      ],
+      "sales_comment": "50万级旗舰SUV，车主对保护要求较高，推荐全套顶级保护方案"
+    },
+    {
+      "rank": 30,
+      "model": "小米 SU7",
+      "positioning": "中大型轿跑",
+      "brand": "小米",
+      "source_price_range": "21.59-29.99万元",
+      "common_colors": [
+        "海湾蓝",
+        "橄榄绿",
+        "雅灰",
+        "寒武岩灰",
+        "流星蓝"
+      ],
+      "common_modification_needs": [
+        "全车改色（热度极高）",
+        "哑光车衣",
+        "轮毂卡钳改色"
+      ],
+      "sales_comment": "2024年度现象级新车，改色需求关注度高，推荐首发改色+车衣套餐，销售机会较明确"
+    },
+    {
+      "rank": 31,
+      "model": "埃安 Y",
+      "positioning": "紧凑型 SUV",
+      "brand": "广汽埃安",
+      "source_price_range": "9.98-18.98万元",
+      "common_colors": [
+        "极地白",
+        "极速银",
+        "自由灰",
+        "天青蓝"
+      ],
+      "common_modification_needs": [
+        "改色膜（网约车/个人风格）",
+        "车顶行李架",
+        "内饰保护膜"
+      ],
+      "sales_comment": "性价比家用SUV，保有量大，推荐基础车衣+改色走量方案"
+    },
+    {
+      "rank": 32,
+      "model": "埃安 S",
+      "positioning": "紧凑型轿车",
+      "brand": "广汽埃安",
+      "source_price_range": "13.98-17.98万元",
+      "common_colors": [
+        "极地白",
+        "极速银",
+        "自由灰",
+        "湖光蓝"
+      ],
+      "common_modification_needs": [
+        "全车改色",
+        "窗框黑化",
+        "大灯熏黑膜"
+      ],
+      "sales_comment": "网约车+家用兼具，个人车主改色意愿强，推荐改色入门方案"
+    },
+    {
+      "rank": 33,
+      "model": "深蓝 SL03",
+      "positioning": "中型轿车",
+      "brand": "长安深蓝",
+      "source_price_range": "13.99-20.69万元",
+      "common_colors": [
+        "星矿黑",
+        "天河蓝",
+        "月岩灰",
+        "彗星白"
+      ],
+      "common_modification_needs": [
+        "改色膜（战斗灰/液态金属银）",
+        "轮毂改色",
+        "车身拉花"
+      ],
+      "sales_comment": "年轻运动风格，改色需求强，推荐金属色改色系列"
+    },
+    {
+      "rank": 34,
+      "model": "深蓝 S7",
+      "positioning": "中型 SUV",
+      "brand": "长安深蓝",
+      "source_price_range": "14.99-23.99万元",
+      "common_colors": [
+        "星耀黑",
+        "月岩灰",
+        "彗星白",
+        "天河蓝"
+      ],
+      "common_modification_needs": [
+        "隐形车衣",
+        "车顶黑化",
+        "踏板加装"
+      ],
+      "sales_comment": "家用SUV定位，推荐车衣+踏板实用组合，性价比突出"
+    },
+    {
+      "rank": 35,
+      "model": "零跑 C11",
+      "positioning": "中型 SUV",
+      "brand": "零跑",
+      "source_price_range": "14.98-20.98万元",
+      "common_colors": [
+        "光白",
+        "星河银",
+        "天幕灰",
+        "瓦尔登绿"
+      ],
+      "common_modification_needs": [
+        "全车车衣",
+        "改色膜（双拼色）",
+        "轮毂改色"
+      ],
+      "sales_comment": "高性价比中型SUV，车主预算适中，推荐局部车衣+改色组合"
+    },
+    {
+      "rank": 36,
+      "model": "零跑 C01",
+      "positioning": "中大型轿车",
+      "brand": "零跑",
+      "source_price_range": "13.68-20.88万元",
+      "common_colors": [
+        "光白",
+        "星河银",
+        "天幕灰",
+        "珊瑚橙"
+      ],
+      "common_modification_needs": [
+        "改色膜",
+        "车顶黑化",
+        "尾翼/包围贴膜保护"
+      ],
+      "sales_comment": "高性价比大轿车，年轻车主多，推荐全车改色方案"
+    },
+    {
+      "rank": 37,
+      "model": "哪吒 S",
+      "positioning": "中大型轿跑",
+      "brand": "哪吒",
+      "source_price_range": "15.98-26.98万元",
+      "common_colors": [
+        "幻夜黑",
+        "极夜绿",
+        "冰川蓝",
+        "琥珀棕"
+      ],
+      "common_modification_needs": [
+        "改色膜（电光系列）",
+        "轮毂熏黑",
+        "大灯熏黑"
+      ],
+      "sales_comment": "颜值在线的大轿跑，改色需求突出，推荐电光金属改色方案"
+    },
+    {
+      "rank": 38,
+      "model": "哪吒 GT",
+      "positioning": "纯电跑车",
+      "brand": "哪吒",
+      "source_price_range": "17.88-22.68万元",
+      "common_colors": [
+        "幻夜黑",
+        "极夜绿",
+        "绝尘银",
+        "彗星白"
+      ],
+      "common_modification_needs": [
+        "全车改色（高亮/糖果色）",
+        "哑光车衣",
+        "卡钳改色"
+      ],
+      "sales_comment": "最亲民纯电跑车，车主改色需求较强，推荐个性色彩方案"
+    },
+    {
+      "rank": 39,
+      "model": "欧拉 好猫",
+      "positioning": "小型车",
+      "brand": "长城（欧拉）",
+      "source_price_range": "12.98-16.58万元",
+      "common_colors": [
+        "布偶白",
+        "原谅绿",
+        "蓝波万",
+        "万人米"
+      ],
+      "common_modification_needs": [
+        "改色膜（马卡龙/复古风格）",
+        "车顶悬浮改色",
+        "内饰改色膜"
+      ],
+      "sales_comment": "女性车主占比较高，改色意愿较强车型之一，推荐马卡龙色系改色方案"
+    },
+    {
+      "rank": 40,
+      "model": "智己 LS6",
+      "positioning": "中大型 SUV",
+      "brand": "上汽（智己）",
+      "source_price_range": "22.99-29.19万元",
+      "common_colors": [
+        "伦勃朗灰",
+        "毕沙罗白",
+        "拉斐尔茶",
+        "莫奈青"
+      ],
+      "common_modification_needs": [
+        "全车哑光车衣",
+        "改色膜",
+        "轮毂改色"
+      ],
+      "sales_comment": "艺术气质十足，车主品味型居多，推荐高端哑光车衣+定制改色"
+    },
+    {
+      "rank": 41,
+      "model": "阿维塔 11",
+      "positioning": "中大型 SUV",
+      "brand": "长安/华为/宁德时代",
+      "source_price_range": "30.00-39.00万元",
+      "common_colors": [
+        "曜黑",
+        "雾绿",
+        "皓白",
+        "素白",
+        "墨灰"
+      ],
+      "common_modification_needs": [
+        "全车车衣",
+        "改色膜（哑光/缎面）",
+        "内饰保护膜"
+      ],
+      "sales_comment": "高端智能SUV，客户消费力强，推荐全车车衣+内饰全套保护"
+    },
+    {
+      "rank": 42,
+      "model": "阿维塔 12",
+      "positioning": "中大型轿跑",
+      "brand": "长安/华为/宁德时代",
+      "source_price_range": "30.08-40.08万元",
+      "common_colors": [
+        "曜黑",
+        "山蓝",
+        "云紫",
+        "皓白",
+        "墨灰"
+      ],
+      "common_modification_needs": [
+        "全车车衣（推荐哑光）",
+        "改色膜（幻彩系列）",
+        "电子后视镜保护膜"
+      ],
+      "sales_comment": "科技豪华轿跑，新车价值高，推荐顶级车衣+全车保护方案"
+    },
+    {
+      "rank": 43,
+      "model": "昊铂 GT",
+      "positioning": "中大型轿跑",
+      "brand": "广汽（昊铂）",
+      "source_price_range": "21.99-33.99万元",
+      "common_colors": [
+        "星漫绿",
+        "星河紫",
+        "夜影黑",
+        "冰玫粉"
+      ],
+      "common_modification_needs": [
+        "改色膜（液态金属）",
+        "哑光车衣",
+        "旋翼门贴膜保护"
+      ],
+      "sales_comment": "剪刀门轿跑吸睛利器，推荐亮色改色+车衣组合，突出个性"
+    },
+    {
+      "rank": 44,
+      "model": "吉利银河 E8",
+      "positioning": "中大型轿车",
+      "brand": "吉利",
+      "source_price_range": "17.58-22.88万元",
+      "common_colors": [
+        "海棠粉",
+        "烟霞灰",
+        "秋杏黄",
+        "柳霜白"
+      ],
+      "common_modification_needs": [
+        "改色膜（国风色系）",
+        "车顶黑化",
+        "前脸贴膜保护"
+      ],
+      "sales_comment": "中式美学设计，推荐国风改色方案，话题性强易转化"
+    },
+    {
+      "rank": 45,
+      "model": "极越 01",
+      "positioning": "中大型 SUV",
+      "brand": "吉利/百度（极越）",
+      "source_price_range": "21.99-30.99万元",
+      "common_colors": [
+        "星河紫",
+        "星辉银",
+        "星云白",
+        "星夜黑"
+      ],
+      "common_modification_needs": [
+        "全车车衣",
+        "改色膜",
+        "轮毂改色"
+      ],
+      "sales_comment": "智能科技SUV，车主尝鲜意愿强，推荐个性改色方案"
+    },
+    {
+      "rank": 46,
+      "model": "宝马 i3",
+      "positioning": "中型轿车",
+      "brand": "宝马",
+      "source_price_range": "35.39-41.39万元",
+      "common_colors": [
+        "矿石白",
+        "碳黑色",
+        "波尔蒂芒蓝",
+        "墨尔本红"
+      ],
+      "common_modification_needs": [
+        "隐形车衣（宝马漆面较薄）",
+        "改色膜（M Performance风格）",
+        "中网贴膜黑化"
+      ],
+      "sales_comment": "豪华品牌入门电车，车主爱惜车辆，推荐车衣+黑化运动风格改装"
+    },
+    {
+      "rank": 47,
+      "model": "宝马 iX3",
+      "positioning": "中型 SUV",
+      "brand": "宝马",
+      "source_price_range": "40.50-44.50万元",
+      "common_colors": [
+        "矿石白",
+        "碳黑色",
+        "量子蓝",
+        "神秘灰"
+      ],
+      "common_modification_needs": [
+        "全车车衣",
+        "车窗镀铬黑化（曜夜风格）",
+        "踏板加装"
+      ],
+      "sales_comment": "豪华品牌SUV，车主注重原厂质感，推荐哑光车衣+曜夜黑化方案"
+    },
+    {
+      "rank": 48,
+      "model": "大众 ID.3",
+      "positioning": "紧凑型车",
+      "brand": "大众",
+      "source_price_range": "12.59-14.99万元",
+      "common_colors": [
+        "极光绿",
+        "赛博黄",
+        "晶质白",
+        "离子灰"
+      ],
+      "common_modification_needs": [
+        "改色膜（拼色/卡通风格）",
+        "轮毂罩改色",
+        "C柱贴花"
+      ],
+      "sales_comment": "年轻时尚小车，改色需求旺盛，推荐拼色改色方案提升颜值"
+    },
+    {
+      "rank": 49,
+      "model": "大众 ID.4",
+      "positioning": "紧凑型 SUV",
+      "brand": "大众",
+      "source_price_range": "19.39-28.34万元",
+      "common_colors": [
+        "极光绿",
+        "晶质白",
+        "离子灰",
+        "银河蓝"
+      ],
+      "common_modification_needs": [
+        "隐形车衣",
+        "车顶黑化改色",
+        "踏板加装"
+      ],
+      "sales_comment": "家用SUV定位，推荐车衣+车顶黑化套餐，稳中求变"
+    },
+    {
+      "rank": 50,
+      "model": "保时捷 Taycan",
+      "positioning": "中大型纯电轿跑",
+      "brand": "保时捷",
+      "source_price_range": "89.80-183.80万元",
+      "common_colors": [
+        "冰莓粉",
+        "哑灰",
+        "龙胆蓝",
+        "火山灰",
+        "白云石白"
+      ],
+      "common_modification_needs": [
+        "全车顶级隐形车衣（重点考虑项）",
+        "改色膜（冰莓粉较受关注）",
+        "轮毂卡钳改色"
+      ],
+      "sales_comment": "百万级纯电轿跑，客户通常更重视品质和完整方案，推荐顶级车衣+定制改色，客单价潜力高"
+    }
+  ]
+}
